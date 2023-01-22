@@ -43,6 +43,11 @@
     }
 
     &__headline{
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 36px;
+        letter-spacing: 0.06em;
+        color:var(--color-title-black);
         margin-bottom: 4px;
          
     }
